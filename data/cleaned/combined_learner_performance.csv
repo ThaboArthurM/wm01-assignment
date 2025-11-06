@@ -1,0 +1,311 @@
+,learner_id,gender,age,region,classes_attended,total_classes,exam_score,completion_status,career_path,country,attendence_rate
+0,L1000,1,33,KwaZulu-Natal,26,40,83.0,0,Seeking Employment,za,65.0
+1,L1001,0,30,Eastern Cape,23,40,45.0,0,Further Studies,za,57.0
+2,L1002,1,32,Eastern Cape,32,40,88.0,1,Entrepreneurship,za,80.0
+3,L1003,1,30,Gauteng,39,40,50.0,1,Entrepreneurship,za,98.0
+4,L1004,1,26,Gauteng,20,40,46.0,0,Seeking Employment,za,50.0
+5,L1005,1,32,Western Cape,27,40,52.0,0,Seeking Employment,za,68.0
+6,L1006,1,30,Gauteng,33,40,94.0,1,Seeking Employment,za,82.0
+7,L1007,1,18,KwaZulu-Natal,35,40,64.0,1,Further Studies,za,88.0
+8,L1008,1,24,Eastern Cape,33,40,72.0,1,Seeking Employment,za,82.0
+9,L1009,0,26,Gauteng,31,40,62.0,1,Entrepreneurship,za,78.0
+10,L1010,1,18,Gauteng,38,40,63.0,1,Entrepreneurship,za,95.0
+11,L1011,1,29,Western Cape,34,40,57.0,1,Seeking Employment,za,85.0
+12,L1012,1,25,Western Cape,21,40,65.0,0,Seeking Employment,za,52.0
+13,L1013,1,28,KwaZulu-Natal,21,40,72.0,0,Entrepreneurship,za,52.0
+14,L1014,0,34,Eastern Cape,38,40,90.0,1,Further Studies,za,95.0
+15,L1015,1,25,gauteng,36,40,36.0,0,Seeking Employment,za,90.0
+16,L1016,0,20,Gauteng,39,40,89.0,1,Seeking Employment,za,98.0
+17,L1017,0,20,Eastern Cape,29,40,72.0,0,Entrepreneurship,za,72.0
+18,L1018,0,18,Eastern Cape,25,40,59.0,0,Seeking Employment,za,62.0
+19,L1019,1,22,Gauteng,34,40,56.0,1,Further Studies,za,85.0
+20,L1020,0,27,Western Cape,30,40,80.0,1,Self-Employed,za,75.0
+21,L1021,1,24,Gauteng,24,40,68.0,0,Seeking Employment,za,60.0
+22,L1022,0,26,Eastern Cape,20,40,41.0,0,Entrepreneurship,za,50.0
+23,L1023,0,24,Free State,27,40,70.0,0,Seeking Employment,za,68.0
+24,L1024,0,26,Free State,40,40,82.0,1,Seeking Employment,za,100.0
+25,L1025,0,25,KwaZulu-Natal,31,40,77.0,1,Seeking Employment,za,78.0
+26,L1026,0,29,Gauteng,31,40,55.0,1,Further Studies,za,78.0
+27,L1027,0,19,Gauteng,24,40,44.0,0,Further Studies,za,60.0
+28,L1028,0,18,KwaZulu-Natal,26,40,60.0,0,Entrepreneurship,za,65.0
+29,L1029,0,33,KwaZulu-Natal,23,40,100.0,0,Seeking Employment,za,57.0
+30,L1030,1,99,KwaZulu-Natal,25,40,41.0,0,Seeking Employment,za,62.0
+31,L1031,1,20,Eastern Cape,32,40,52.0,1,Further Studies,za,80.0
+32,L1032,0,29,Gauteng,39,40,70.0,1,Seeking Employment,za,98.0
+33,L1033,0,25,Eastern Cape,34,40,63.0,1,Further Studies,za,85.0
+34,L1034,0,20,KwaZulu-Natal,22,40,61.0,0,Seeking Employment,za,55.0
+35,L1035,1,18,Gauteng,55,40,95.0,0,Entrepreneurship,za,138.0
+36,L1036,0,20,Eastern Cape,39,40,52.0,1,Seeking Employment,za,98.0
+37,L1037,1,22,Eastern Cape,35,40,64.0,1,Seeking Employment,za,88.0
+38,L1038,1,32,KwaZulu-Natal,32,40,68.0,1,Further Studies,za,80.0
+39,L1039,1,31,Gauteng,37,40,52.0,1,Seeking Employment,za,92.0
+40,L1040,1,20,KwaZulu-Natal,29,40,80.0,0,Seeking Employment,za,72.0
+41,L1041,1,18,Gauteng,38,40,69.0,1,Further Studies,za,95.0
+42,L1042,0,22,Free State,36,40,92.0,1,Entrepreneurship,za,90.0
+43,L1043,0,31,Western Cape,38,40,71.0,1,Entrepreneurship,za,95.0
+44,L1044,0,24,Western Cape,24,40,66.0,0,Further Studies,za,60.0
+45,L1045,0,26,Western Cape,40,40,66.0,1,Further Studies,za,100.0
+46,L1046,0,32,KwaZulu-Natal,28,40,61.0,0,Further Studies,za,70.0
+47,L1047,1,32,Free State,31,40,82.0,1,Further Studies,za,78.0
+48,L1048,0,27,Gauteng,40,40,57.0,1,Further Studies,za,100.0
+49,L1049,0,30,Eastern Cape,20,40,44.0,0,Entrepreneurship,za,50.0
+50,L1050,1,24,Gauteng,20,40,41.0,0,Entrepreneurship,za,50.0
+51,L1051,0,34,Eastern Cape,34,40,66.0,1,Further Studies,za,85.0
+52,L1052,1,21,Gauteng,21,40,80.0,0,Seeking Employment,za,52.0
+53,L1053,0,22,Free State,35,40,68.0,1,Further Studies,za,88.0
+54,L1054,1,24,Eastern Cape,27,40,60.0,0,Seeking Employment,za,68.0
+55,L1055,0,30,KwaZulu-Natal,32,40,71.0,1,Further Studies,za,80.0
+56,L1056,0,32,Gauteng,40,40,67.0,1,Further Studies,za,100.0
+57,L1057,1,28,Gauteng,20,40,77.0,0,Entrepreneurship,za,50.0
+58,L1058,1,21,Eastern Cape,35,40,84.0,1,Seeking Employment,za,88.0
+59,L1059,1,30,KwaZulu-Natal,26,40,50.0,0,Seeking Employment,za,65.0
+60,L1060,1,24,KwaZulu-Natal,24,40,29.0,0,Entrepreneurship,za,60.0
+61,L1061,1,19,Free State,22,40,59.0,0,Entrepreneurship,za,55.0
+62,L1062,1,27,KwaZulu-Natal,31,40,49.0,0,Entrepreneurship,za,78.0
+63,L1063,1,30,KwaZulu-Natal,35,40,77.0,1,Entrepreneurship,za,88.0
+64,L1064,1,23,KwaZulu-Natal,38,40,54.0,1,Seeking Employment,za,95.0
+65,L1065,0,29,Western Cape,24,40,36.0,0,Seeking Employment,za,60.0
+66,L1066,0,29,Free State,33,40,56.0,1,Further Studies,za,82.0
+67,L1067,1,28,Gauteng,24,40,42.0,0,Further Studies,za,60.0
+68,L1068,0,24,Eastern Cape,34,40,88.0,1,Entrepreneurship,za,85.0
+69,L1069,0,18,Gauteng,36,40,72.0,1,Entrepreneurship,za,90.0
+70,L1070,0,18,Free State,33,40,74.0,1,Entrepreneurship,za,82.0
+71,L1071,0,30,Eastern Cape,39,40,73.0,1,Further Studies,za,98.0
+72,L1072,1,26,Free State,24,40,77.0,0,Further Studies,za,60.0
+73,L1073,0,20,KwaZulu-Natal,31,40,82.0,1,Further Studies,za,78.0
+74,L1074,1,24,Eastern Cape,35,40,56.0,1,Further Studies,za,88.0
+75,L1075,0,23,KwaZulu-Natal,35,40,43.0,0,Further Studies,za,88.0
+76,L1076,0,25,Gauteng,40,40,52.0,1,Further Studies,za,100.0
+77,L1077,0,26,Gauteng,26,40,64.0,0,Further Studies,za,65.0
+78,L1078,1,22,Eastern Cape,23,40,26.0,0,Entrepreneurship,za,57.0
+79,L1079,0,18,Eastern Cape,20,40,82.0,0,Entrepreneurship,za,50.0
+80,L1080,1,27,Free State,24,40,36.0,0,Entrepreneurship,za,60.0
+81,L1081,0,29,Free State,29,40,73.0,0,Entrepreneurship,za,72.0
+82,L1082,1,32,KwaZulu-Natal,24,40,62.0,0,Further Studies,za,60.0
+83,L1083,0,26,Eastern Cape,23,40,69.0,0,Seeking Employment,za,57.0
+84,L1084,1,34,Gauteng,21,40,57.0,0,Further Studies,za,52.0
+85,L1085,1,34,Free State,39,40,68.0,1,Seeking Employment,za,98.0
+86,L1086,0,29,Free State,29,40,57.0,0,Entrepreneurship,za,72.0
+87,L1087,1,24,Gauteng,38,40,56.0,1,Further Studies,za,95.0
+88,L1088,0,19,Free State,20,40,51.0,0,Entrepreneurship,za,50.0
+89,L1089,0,20,KwaZulu-Natal,24,40,87.0,0,Further Studies,za,60.0
+90,L1090,0,34,Eastern Cape,32,40,70.0,1,Entrepreneurship,za,80.0
+91,L1091,0,22,Gauteng,23,40,68.0,0,Seeking Employment,za,57.0
+92,L1092,0,34,Eastern Cape,35,40,51.0,1,Seeking Employment,za,88.0
+93,L1093,0,34,Free State,35,40,61.0,1,Seeking Employment,za,88.0
+94,L1094,0,34,Free State,21,40,50.0,0,Further Studies,za,52.0
+95,L1095,0,19,Gauteng,36,40,57.0,1,Seeking Employment,za,90.0
+96,L1096,0,19,KwaZulu-Natal,39,40,46.0,0,Further Studies,za,98.0
+97,L1097,0,22,Western Cape,31,40,88.0,1,Seeking Employment,za,78.0
+98,L1098,0,18,Gauteng,37,40,53.0,1,Seeking Employment,za,92.0
+99,L1099,1,18,Western Cape,22,40,51.0,0,Further Studies,za,55.0
+100,L1100,1,19,Western Cape,20,40,45.0,0,Further Studies,za,50.0
+101,L1101,0,29,KwaZulu-Natal,20,40,53.0,0,Seeking Employment,za,50.0
+102,L1102,0,23,Western Cape,38,40,57.0,1,Further Studies,za,95.0
+103,L1103,0,21,Western Cape,30,40,64.0,1,Seeking Employment,za,75.0
+104,L1104,0,28,KwaZulu-Natal,24,40,55.0,0,Further Studies,za,60.0
+105,L1105,0,34,Western Cape,31,40,40.0,0,Entrepreneurship,za,78.0
+106,L1106,0,23,Western Cape,22,40,42.0,0,Entrepreneurship,za,55.0
+107,L1107,0,22,Western Cape,20,40,75.0,0,Entrepreneurship,za,50.0
+108,L1108,0,19,Gauteng,20,40,63.0,0,Entrepreneurship,za,50.0
+109,L1109,1,23,Gauteng,27,40,74.0,0,Entrepreneurship,za,68.0
+110,L1110,0,28,Gauteng,29,40,76.0,0,Seeking Employment,za,72.0
+111,L1111,1,33,KwaZulu-Natal,30,40,67.0,1,Entrepreneurship,za,75.0
+112,L1112,0,33,Free State,31,40,46.0,0,Entrepreneurship,za,78.0
+113,L1113,0,18,Western Cape,32,40,67.0,1,Entrepreneurship,za,80.0
+114,L1114,1,26,Western Cape,31,40,85.0,1,Entrepreneurship,za,78.0
+115,L1115,0,23,KwaZulu-Natal,33,40,58.0,1,Further Studies,za,82.0
+116,L1116,1,33,Western Cape,21,40,70.0,0,Seeking Employment,za,52.0
+117,L1117,0,20,Gauteng,38,40,64.0,1,Entrepreneurship,za,95.0
+118,L1118,0,21,Free State,37,40,85.0,1,Entrepreneurship,za,92.0
+119,L1119,1,20,Eastern Cape,22,40,54.0,0,Entrepreneurship,za,55.0
+120,L2001,0,19,Maseru,26,40,52.7,1,Further Studies,les,65.0
+121,L2002,0,25,Berea,36,40,66.8,0,Seeking Employment,les,90.0
+122,L2003,1,27,Maseru,16,40,88.2,1,Seeking Employment,les,40.0
+123,L2004,0,31,Maseru,24,40,67.4,0,Seeking Employment,les,60.0
+124,L2005,0,26,Quthing,18,40,63.4,1,Further Studies,les,45.0
+125,L2006,1,19,Mafeteng,24,40,97.5,1,Self-Employed,les,60.0
+126,L2007,1,21,Maseru,35,40,81.9,0,Seeking Employment,les,88.0
+127,L2008,0,27,Mafeteng,21,40,67.7804469273743,1,Seeking Employment,les,52.0
+128,L2009,0,18,Berea,19,40,89.7,1,Self-Employed,les,48.0
+129,L2010,0,27,Mokhotlong,23,40,83.7,0,Self-Employed,les,57.0
+130,L2011,0,31,Mafeteng,19,40,54.4,1,Seeking Employment,les,48.0
+131,L2012,1,30,Quthing,38,40,67.7804469273743,1,Entrepreneurship,les,95.0
+132,L2013,0,28,Leribe,28,40,69.4,0,Further Studies,les,70.0
+133,L2014,1,20,Mafeteng,24,40,69.7,1,Further Studies,les,60.0
+134,L2015,0,22,Qacha's Nek,30,40,50.8,0,Further Studies,les,75.0
+135,L2016,0,26,Mohale's Hoek,24,40,31.9,1,Seeking Employment,les,60.0
+136,L2017,1,25,Mohale's Hoek,17,40,82.2,1,Self-Employed,les,42.0
+137,L2018,0,31,Maseru,18,40,64.1,1,Self-Employed,les,45.0
+138,L2019,0,30,Mohale's Hoek,25,40,41.1,0,Entrepreneurship,les,62.0
+139,L2020,0,24,Butha-Buthe,40,40,84.6,1,Further Studies,les,100.0
+140,L2021,0,20,Mafeteng,34,40,60.7,0,Entrepreneurship,les,85.0
+141,L2022,1,19,Butha-Buthe,29,40,56.5,1,Seeking Employment,les,72.0
+142,L2023,0,26,Thaba-Tseka,34,40,61.0,0,Seeking Employment,les,85.0
+143,L2024,1,23,Leribe,19,40,73.2,0,Further Studies,les,48.0
+144,L2025,0,24,Leribe,20,40,48.1,0,Further Studies,les,50.0
+145,L2026,0,21,Leribe,38,40,69.9,1,Seeking Employment,les,95.0
+146,L2027,0,32,Mafeteng,32,40,79.2,1,Seeking Employment,les,80.0
+147,L2028,0,27,Qacha's Nek,21,40,95.9,1,Entrepreneurship,les,52.0
+148,L2029,1,26,Quthing,25,40,79.7,0,Self-Employed,les,62.0
+149,L2030,0,33,Thaba-Tseka,40,40,51.1,0,Further Studies,les,100.0
+150,L2031,1,34,Mokhotlong,40,40,89.8,0,Self-Employed,les,100.0
+151,L2032,1,26,Mokhotlong,35,40,42.7,1,Self-Employed,les,88.0
+152,L2033,0,22,Butha-Buthe,33,40,63.4,0,Seeking Employment,les,82.0
+153,L2034,0,19,Quthing,23,40,58.6,1,Seeking Employment,les,57.0
+154,L2035,0,19,Mohale's Hoek,17,40,72.2,1,Self-Employed,les,42.0
+155,L2036,1,24,Butha-Buthe,32,40,33.8,1,Entrepreneurship,les,80.0
+156,L2037,0,24,Leribe,19,40,89.0,0,Seeking Employment,les,48.0
+157,L2038,1,19,Mafeteng,17,40,95.0,0,Seeking Employment,les,42.0
+158,L2039,0,35,Butha-Buthe,31,40,87.7,1,Self-Employed,les,78.0
+159,L2040,0,30,Leribe,22,40,57.6,0,Further Studies,les,55.0
+160,L2041,0,18,Mohale's Hoek,27,40,42.4,0,Self-Employed,les,68.0
+161,L2042,0,23,Thaba-Tseka,40,40,57.4,0,Self-Employed,les,100.0
+162,L2043,0,22,Butha-Buthe,22,40,31.9,1,Entrepreneurship,les,55.0
+163,L2044,0,22,Thaba-Tseka,26,40,96.1,0,Entrepreneurship,les,65.0
+164,L2045,1,23,Berea,28,40,36.9,0,Entrepreneurship,les,70.0
+165,L2046,0,31,Butha-Buthe,25,40,87.0,0,Entrepreneurship,les,62.0
+166,L2047,0,24,Quthing,36,40,93.5,0,Self-Employed,les,90.0
+167,L2048,0,28,Butha-Buthe,29,40,87.3,0,Further Studies,les,72.0
+168,L2049,1,22,Quthing,26,40,86.3,1,Further Studies,les,65.0
+169,L2050,1,26,Mokhotlong,24,40,63.7,1,Self-Employed,les,60.0
+170,L2051,0,22,Berea,25,40,40.9,1,Seeking Employment,les,62.0
+171,L2052,0,27,Mokhotlong,17,40,71.3,1,Entrepreneurship,les,42.0
+172,L2053,1,27,Qacha's Nek,15,40,40.6,1,Further Studies,les,38.0
+173,L2054,1,30,Mokhotlong,37,40,56.9,0,Self-Employed,les,92.0
+174,L2055,0,20,Mohale's Hoek,34,40,92.3,0,Self-Employed,les,85.0
+175,L2056,0,32,Berea,20,40,36.1,1,Self-Employed,les,50.0
+176,L2057,1,30,Thaba-Tseka,25,40,64.4,0,Seeking Employment,les,62.0
+177,L2058,0,19,Maseru,35,40,51.1,0,Seeking Employment,les,88.0
+178,L2059,0,35,Mafeteng,16,40,77.6,1,Entrepreneurship,les,40.0
+179,L2060,0,27,Leribe,16,40,82.8,0,Seeking Employment,les,40.0
+180,L2061,1,32,Berea,25,40,67.1,1,Entrepreneurship,les,62.0
+181,L2062,0,25,Mohale's Hoek,23,40,74.9,0,Seeking Employment,les,57.0
+182,L2063,0,32,Qacha's Nek,36,40,81.0,0,Further Studies,les,90.0
+183,L2064,0,22,Qacha's Nek,24,40,77.7,1,Self-Employed,les,60.0
+184,L2065,0,23,Mafeteng,36,40,85.9,0,Seeking Employment,les,90.0
+185,L2066,0,26,Thaba-Tseka,35,40,68.7,0,Self-Employed,les,88.0
+186,L2067,1,26,Maseru,23,40,96.1,0,Self-Employed,les,57.0
+187,L2068,0,20,Maseru,33,40,35.0,0,Self-Employed,les,82.0
+188,L2069,0,30,Qacha's Nek,36,40,78.0,1,Further Studies,les,90.0
+189,L2070,1,33,Leribe,25,40,31.8,1,Further Studies,les,62.0
+190,L2071,0,34,Mohale's Hoek,34,40,76.3,0,Entrepreneurship,les,85.0
+191,L2072,1,27,Mafeteng,37,40,50.2,1,Further Studies,les,92.0
+192,L2073,0,18,Leribe,27,40,63.9,1,Self-Employed,les,68.0
+193,L2074,1,24,Maseru,24,40,90.3,1,Self-Employed,les,60.0
+194,L2075,0,33,Mohale's Hoek,23,40,86.5,1,Self-Employed,les,57.0
+195,L2076,0,26,Quthing,35,40,67.5,1,Entrepreneurship,les,88.0
+196,L2077,0,25,Mafeteng,34,40,45.4,1,Self-Employed,les,85.0
+197,L2078,0,34,Mohale's Hoek,24,40,92.2,0,Seeking Employment,les,60.0
+198,L2079,0,35,Butha-Buthe,23,40,35.5,0,Entrepreneurship,les,57.0
+199,L2080,0,22,Leribe,21,40,91.0,0,Further Studies,les,52.0
+200,L2081,0,29,Thaba-Tseka,39,40,65.9,0,Further Studies,les,98.0
+201,L2082,1,29,Mafeteng,34,40,67.7804469273743,1,Entrepreneurship,les,85.0
+202,L2083,1,18,Quthing,18,40,98.9,0,Further Studies,les,45.0
+203,L2084,0,21,Quthing,18,40,75.4,1,Entrepreneurship,les,45.0
+204,L2085,0,22,Mokhotlong,28,40,65.2,1,Seeking Employment,les,70.0
+205,L2086,0,27,Quthing,16,40,33.6,1,Entrepreneurship,les,40.0
+206,L2087,0,22,Butha-Buthe,35,40,31.8,1,Seeking Employment,les,88.0
+207,L2088,0,21,Mokhotlong,38,40,67.7804469273743,0,Seeking Employment,les,95.0
+208,L2089,0,22,Quthing,27,40,63.0,0,Seeking Employment,les,68.0
+209,L2090,1,19,Butha-Buthe,25,40,30.1,0,Self-Employed,les,62.0
+210,L2091,1,33,Mokhotlong,36,40,86.9,0,Self-Employed,les,90.0
+211,L2092,1,22,Mafeteng,21,40,93.5,0,Entrepreneurship,les,52.0
+212,L2093,0,18,Butha-Buthe,33,40,59.9,1,Entrepreneurship,les,82.0
+213,L2094,0,35,Quthing,40,40,67.7804469273743,0,Self-Employed,les,100.0
+214,L2095,0,25,Leribe,27,40,83.1,0,Further Studies,les,68.0
+215,L2096,1,23,Berea,34,40,34.4,1,Further Studies,les,85.0
+216,L2097,0,34,Leribe,16,40,62.4,1,Entrepreneurship,les,40.0
+217,L2098,1,23,Leribe,32,40,35.5,0,Self-Employed,les,80.0
+218,L2099,0,25,Mokhotlong,20,40,93.7,0,Self-Employed,les,50.0
+219,L2100,0,25,Mafeteng,21,40,39.0,1,Self-Employed,les,52.0
+220,L2101,0,23,Mokhotlong,21,40,93.7,0,Entrepreneurship,les,52.0
+221,L2102,0,22,Leribe,32,40,37.6,1,Seeking Employment,les,80.0
+222,L2103,0,35,Mokhotlong,36,40,51.6,1,Further Studies,les,90.0
+223,L2104,0,26,Berea,35,40,93.8,1,Entrepreneurship,les,88.0
+224,L2105,1,26,Quthing,23,40,74.7,0,Further Studies,les,57.0
+225,L2106,0,19,Thaba-Tseka,39,40,98.4,1,Entrepreneurship,les,98.0
+226,L2107,0,26,Maseru,32,40,53.1,1,Self-Employed,les,80.0
+227,L2108,0,34,Quthing,35,40,87.8,0,Entrepreneurship,les,88.0
+228,L2109,0,35,Mafeteng,28,40,67.7804469273743,0,Seeking Employment,les,70.0
+229,L2110,0,26,Quthing,30,40,74.8,1,Further Studies,les,75.0
+230,L2111,0,35,Berea,23,40,47.0,0,Self-Employed,les,57.0
+231,L2112,0,35,Leribe,34,40,44.0,0,Seeking Employment,les,85.0
+232,L2113,1,31,Leribe,34,40,48.5,0,Self-Employed,les,85.0
+233,L2114,0,25,Quthing,28,40,75.9,0,Self-Employed,les,70.0
+234,L2115,0,22,Mohale's Hoek,23,40,34.7,1,Self-Employed,les,57.0
+235,L2116,1,26,Berea,17,40,32.6,0,Self-Employed,les,42.0
+236,L2117,0,22,Butha-Buthe,25,40,88.7,1,Self-Employed,les,62.0
+237,L2118,1,19,Mokhotlong,22,40,37.9,0,Self-Employed,les,55.0
+238,L2119,0,20,Quthing,26,40,71.9,0,Self-Employed,les,65.0
+239,L2120,0,22,Leribe,15,40,67.7804469273743,1,Self-Employed,les,38.0
+240,L2121,0,31,Mafeteng,37,40,92.6,0,Entrepreneurship,les,92.0
+241,L2122,1,34,Maseru,16,40,56.3,0,Seeking Employment,les,40.0
+242,L2123,1,21,Butha-Buthe,35,40,65.7,1,Entrepreneurship,les,88.0
+243,L2124,0,29,Thaba-Tseka,32,40,76.1,0,Further Studies,les,80.0
+244,L2125,0,18,Mokhotlong,30,40,42.4,1,Entrepreneurship,les,75.0
+245,L2126,1,26,Leribe,17,40,84.1,1,Self-Employed,les,42.0
+246,L2127,1,25,Thaba-Tseka,18,40,62.5,0,Further Studies,les,45.0
+247,L2128,0,24,Maseru,22,40,63.8,1,Entrepreneurship,les,55.0
+248,L2129,0,31,Butha-Buthe,32,40,75.2,0,Seeking Employment,les,80.0
+249,L2130,0,29,Mohale's Hoek,35,40,81.2,0,Further Studies,les,88.0
+250,L2131,0,26,Thaba-Tseka,31,40,82.1,0,Further Studies,les,78.0
+251,L2132,0,21,Mafeteng,22,40,84.6,0,Further Studies,les,55.0
+252,L2133,1,24,Maseru,26,40,33.5,1,Seeking Employment,les,65.0
+253,L2134,1,29,Thaba-Tseka,25,40,71.8,0,Entrepreneurship,les,62.0
+254,L2135,0,34,Qacha's Nek,17,40,48.1,1,Entrepreneurship,les,42.0
+255,L2136,0,30,Qacha's Nek,32,40,98.8,0,Further Studies,les,80.0
+256,L2137,0,18,Mokhotlong,27,40,78.8,1,Entrepreneurship,les,68.0
+257,L2138,0,26,Mokhotlong,24,40,81.7,1,Self-Employed,les,60.0
+258,L2139,0,26,Thaba-Tseka,15,40,96.3,0,Seeking Employment,les,38.0
+259,L2140,1,30,Qacha's Nek,18,40,36.4,0,Seeking Employment,les,45.0
+260,L2141,0,30,Mohale's Hoek,16,40,95.1,0,Seeking Employment,les,40.0
+261,L2142,1,35,Thaba-Tseka,21,40,95.0,1,Entrepreneurship,les,52.0
+262,L2143,0,18,Berea,23,40,67.7804469273743,1,Entrepreneurship,les,57.0
+263,L2144,1,32,Mohale's Hoek,23,40,80.7,0,Seeking Employment,les,57.0
+264,L2145,0,31,Thaba-Tseka,34,40,85.3,0,Further Studies,les,85.0
+265,L2146,0,24,Maseru,27,40,80.7,0,Further Studies,les,68.0
+266,L2147,0,24,Berea,33,40,97.9,0,Further Studies,les,82.0
+267,L2148,1,35,Thaba-Tseka,27,40,58.2,1,Seeking Employment,les,68.0
+268,L2149,0,34,Berea,23,40,94.2,0,Entrepreneurship,les,57.0
+269,L2150,1,28,Maseru,18,40,46.6,0,Self-Employed,les,45.0
+270,L2151,0,35,Thaba-Tseka,36,40,73.6,1,Self-Employed,les,90.0
+271,L2152,1,18,Thaba-Tseka,22,40,92.1,0,Seeking Employment,les,55.0
+272,L2153,1,28,Leribe,28,40,98.2,0,Seeking Employment,les,70.0
+273,L2154,1,23,Mafeteng,36,40,67.7804469273743,1,Self-Employed,les,90.0
+274,L2155,0,21,Berea,21,40,54.7,1,Seeking Employment,les,52.0
+275,L2156,0,23,Mohale's Hoek,25,40,95.3,0,Seeking Employment,les,62.0
+276,L2157,0,33,Qacha's Nek,28,40,39.3,1,Seeking Employment,les,70.0
+277,L2158,1,34,Quthing,22,40,48.1,0,Entrepreneurship,les,55.0
+278,L2159,0,30,Mokhotlong,24,40,30.3,1,Self-Employed,les,60.0
+279,L2160,0,32,Qacha's Nek,37,40,76.2,0,Self-Employed,les,92.0
+280,L2161,1,19,Qacha's Nek,20,40,30.2,1,Further Studies,les,50.0
+281,L2162,1,29,Qacha's Nek,16,40,30.8,0,Further Studies,les,40.0
+282,L2163,1,24,Thaba-Tseka,18,40,85.7,0,Seeking Employment,les,45.0
+283,L2164,0,21,Thaba-Tseka,31,40,62.6,1,Entrepreneurship,les,78.0
+284,L2165,1,30,Leribe,39,40,48.9,1,Self-Employed,les,98.0
+285,L2166,1,23,Mafeteng,30,40,74.7,1,Self-Employed,les,75.0
+286,L2167,0,22,Qacha's Nek,39,40,39.4,1,Self-Employed,les,98.0
+287,L2168,1,26,Mokhotlong,35,40,67.7804469273743,1,Further Studies,les,88.0
+288,L2169,1,26,Berea,16,40,99.6,0,Entrepreneurship,les,40.0
+289,L2170,1,34,Maseru,20,40,57.5,1,Further Studies,les,50.0
+290,L2171,1,30,Berea,37,40,90.4,0,Self-Employed,les,92.0
+291,L2172,0,27,Butha-Buthe,19,40,60.6,0,Entrepreneurship,les,48.0
+292,L2173,1,34,Butha-Buthe,22,40,69.3,1,Seeking Employment,les,55.0
+293,L2174,0,24,Mafeteng,31,40,32.6,0,Seeking Employment,les,78.0
+294,L2175,1,18,Butha-Buthe,21,40,42.3,0,Further Studies,les,52.0
+295,L2176,1,29,Qacha's Nek,40,40,82.2,0,Entrepreneurship,les,100.0
+296,L2177,0,26,Berea,29,40,58.2,0,Entrepreneurship,les,72.0
+297,L2178,0,34,Maseru,27,40,46.8,0,Self-Employed,les,68.0
+298,L2179,0,28,Quthing,31,40,42.3,1,Self-Employed,les,78.0
+299,L2180,1,31,Thaba-Tseka,23,40,91.1,1,Self-Employed,les,57.0
+300,L2181,1,34,Qacha's Nek,40,40,95.2,0,Self-Employed,les,100.0
+301,L2182,0,28,Berea,31,40,71.8,1,Entrepreneurship,les,78.0
+302,L2183,1,24,Mafeteng,29,40,67.7804469273743,0,Entrepreneurship,les,72.0
+303,L2184,1,33,Butha-Buthe,34,40,98.2,1,Entrepreneurship,les,85.0
+304,L2185,1,22,Mokhotlong,24,40,66.0,0,Further Studies,les,60.0
+305,L2186,0,28,Mokhotlong,23,40,81.3,1,Entrepreneurship,les,57.0
+306,L2187,0,27,Qacha's Nek,26,40,72.2,0,Entrepreneurship,les,65.0
+307,L2188,0,29,Berea,35,40,68.2,1,Self-Employed,les,88.0
+308,L2189,0,26,Butha-Buthe,29,40,95.7,0,Entrepreneurship,les,72.0
+309,L2190,1,19,Thaba-Tseka,19,40,90.3,0,Further Studies,les,48.0

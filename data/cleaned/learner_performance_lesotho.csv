@@ -1,0 +1,191 @@
+,learner_id,gender,age,region,classes_attended,total_classes,exam_score,completion_status,career_path,country
+0,L2001,Female,19,Maseru,26,40,52.7,Completed,Further Studies,les
+1,L2002,Female,25,Berea,36,40,66.8,Not Completed,Seeking Employment,les
+2,L2003,Male,27,Maseru,16,40,88.2,Completed,Seeking Employment,les
+3,L2004,Female,31,Maseru,24,40,67.4,Not Completed,Seeking Employment,les
+4,L2005,Female,26,Quthing,18,40,63.4,Completed,Further Studies,les
+5,L2006,Male,19,Mafeteng,24,40,97.5,Completed,Self-Employed,les
+6,L2007,Male,21,Maseru,35,40,81.9,Not Completed,Seeking Employment,les
+7,L2008,Female,27,Mafeteng,21,40,67.7804469273743,Completed,Seeking Employment,les
+8,L2009,Female,18,Berea,19,40,89.7,Completed,Self-Employed,les
+9,L2010,Female,27,Mokhotlong,23,40,83.7,Not Completed,Self-Employed,les
+10,L2011,Female,31,Mafeteng,19,40,54.4,Completed,Seeking Employment,les
+11,L2012,Male,30,Quthing,38,40,67.7804469273743,Completed,Entrepreneurship,les
+12,L2013,Female,28,Leribe,28,40,69.4,Not Completed,Further Studies,les
+13,L2014,Male,20,Mafeteng,24,40,69.7,Completed,Further Studies,les
+14,L2015,Female,22,Qacha's Nek,30,40,50.8,Not Completed,Further Studies,les
+15,L2016,Female,26,Mohale's Hoek,24,40,31.9,Completed,Seeking Employment,les
+16,L2017,Male,25,Mohale's Hoek,17,40,82.2,Completed,Self-Employed,les
+17,L2018,Female,31,Maseru,18,40,64.1,Completed,Self-Employed,les
+18,L2019,Female,30,Mohale's Hoek,25,40,41.1,Not Completed,Entrepreneurship,les
+19,L2020,Female,24,Butha-Buthe,40,40,84.6,Completed,Further Studies,les
+20,L2021,Female,20,Mafeteng,34,40,60.7,Not Completed,Entrepreneurship,les
+21,L2022,Male,19,Butha-Buthe,29,40,56.5,Completed,Seeking Employment,les
+22,L2023,Female,26,Thaba-Tseka,34,40,61.0,Not Completed,Seeking Employment,les
+23,L2024,Male,23,Leribe,19,40,73.2,Not Completed,Further Studies,les
+24,L2025,Female,24,Leribe,20,40,48.1,Not Completed,Further Studies,les
+25,L2026,Female,21,Leribe,38,40,69.9,Completed,Seeking Employment,les
+26,L2027,Female,32,Mafeteng,32,40,79.2,Completed,Seeking Employment,les
+27,L2028,Female,27,Qacha's Nek,21,40,95.9,Completed,Entrepreneurship,les
+28,L2029,Male,26,Quthing,25,40,79.7,Not Completed,Self-Employed,les
+29,L2030,Female,33,Thaba-Tseka,40,40,51.1,Not Completed,Further Studies,les
+30,L2031,Male,34,Mokhotlong,40,40,89.8,Not Completed,Self-Employed,les
+31,L2032,Male,26,Mokhotlong,35,40,42.7,Completed,Self-Employed,les
+32,L2033,Female,22,Butha-Buthe,33,40,63.4,Not Completed,Seeking Employment,les
+33,L2034,Female,19,Quthing,23,40,58.6,Completed,Seeking Employment,les
+34,L2035,Female,19,Mohale's Hoek,17,40,72.2,Completed,Self-Employed,les
+35,L2036,Male,24,Butha-Buthe,32,40,33.8,Completed,Entrepreneurship,les
+36,L2037,Female,24,Leribe,19,40,89.0,Not Completed,Seeking Employment,les
+37,L2038,Male,19,Mafeteng,17,40,95.0,Not Completed,Seeking Employment,les
+38,L2039,Female,35,Butha-Buthe,31,40,87.7,Completed,Self-Employed,les
+39,L2040,Female,30,Leribe,22,40,57.6,Not Completed,Further Studies,les
+40,L2041,Female,18,Mohale's Hoek,27,40,42.4,Not Completed,Self-Employed,les
+41,L2042,Female,23,Thaba-Tseka,40,40,57.4,Not Completed,Self-Employed,les
+42,L2043,Female,22,Butha-Buthe,22,40,31.9,Completed,Entrepreneurship,les
+43,L2044,Female,22,Thaba-Tseka,26,40,96.1,Not Completed,Entrepreneurship,les
+44,L2045,Male,23,Berea,28,40,36.9,Not Completed,Entrepreneurship,les
+45,L2046,Female,31,Butha-Buthe,25,40,87.0,Not Completed,Entrepreneurship,les
+46,L2047,Female,24,Quthing,36,40,93.5,Not Completed,Self-Employed,les
+47,L2048,Female,28,Butha-Buthe,29,40,87.3,Not Completed,Further Studies,les
+48,L2049,Male,22,Quthing,26,40,86.3,Completed,Further Studies,les
+49,L2050,Male,26,Mokhotlong,24,40,63.7,Completed,Self-Employed,les
+50,L2051,Female,22,Berea,25,40,40.9,Completed,Seeking Employment,les
+51,L2052,Female,27,Mokhotlong,17,40,71.3,Completed,Entrepreneurship,les
+52,L2053,Male,27,Qacha's Nek,15,40,40.6,Completed,Further Studies,les
+53,L2054,Male,30,Mokhotlong,37,40,56.9,Not Completed,Self-Employed,les
+54,L2055,Female,20,Mohale's Hoek,34,40,92.3,Not Completed,Self-Employed,les
+55,L2056,Female,32,Berea,20,40,36.1,Completed,Self-Employed,les
+56,L2057,Male,30,Thaba-Tseka,25,40,64.4,Not Completed,Seeking Employment,les
+57,L2058,Female,19,Maseru,35,40,51.1,Not Completed,Seeking Employment,les
+58,L2059,Female,35,Mafeteng,16,40,77.6,Completed,Entrepreneurship,les
+59,L2060,Female,27,Leribe,16,40,82.8,Not Completed,Seeking Employment,les
+60,L2061,Male,32,Berea,25,40,67.1,Completed,Entrepreneurship,les
+61,L2062,Female,25,Mohale's Hoek,23,40,74.9,Not Completed,Seeking Employment,les
+62,L2063,Female,32,Qacha's Nek,36,40,81.0,Not Completed,Further Studies,les
+63,L2064,Female,22,Qacha's Nek,24,40,77.7,Completed,Self-Employed,les
+64,L2065,Female,23,Mafeteng,36,40,85.9,Not Completed,Seeking Employment,les
+65,L2066,Female,26,Thaba-Tseka,35,40,68.7,Not Completed,Self-Employed,les
+66,L2067,Male,26,Maseru,23,40,96.1,Not Completed,Self-Employed,les
+67,L2068,Female,20,Maseru,33,40,35.0,Not Completed,Self-Employed,les
+68,L2069,Female,30,Qacha's Nek,36,40,78.0,Completed,Further Studies,les
+69,L2070,Male,33,Leribe,25,40,31.8,Completed,Further Studies,les
+70,L2071,Female,34,Mohale's Hoek,34,40,76.3,Not Completed,Entrepreneurship,les
+71,L2072,Male,27,Mafeteng,37,40,50.2,Completed,Further Studies,les
+72,L2073,Female,18,Leribe,27,40,63.9,Completed,Self-Employed,les
+73,L2074,Male,24,Maseru,24,40,90.3,Completed,Self-Employed,les
+74,L2075,Female,33,Mohale's Hoek,23,40,86.5,Completed,Self-Employed,les
+75,L2076,Female,26,Quthing,35,40,67.5,Completed,Entrepreneurship,les
+76,L2077,Female,25,Mafeteng,34,40,45.4,Completed,Self-Employed,les
+77,L2078,Female,34,Mohale's Hoek,24,40,92.2,Not Completed,Seeking Employment,les
+78,L2079,Female,35,Butha-Buthe,23,40,35.5,Not Completed,Entrepreneurship,les
+79,L2080,Female,22,Leribe,21,40,91.0,Not Completed,Further Studies,les
+80,L2081,Female,29,Thaba-Tseka,39,40,65.9,Not Completed,Further Studies,les
+81,L2082,Male,29,Mafeteng,34,40,67.7804469273743,Completed,Entrepreneurship,les
+82,L2083,Male,18,Quthing,18,40,98.9,Not Completed,Further Studies,les
+83,L2084,Female,21,Quthing,18,40,75.4,Completed,Entrepreneurship,les
+84,L2085,Female,22,Mokhotlong,28,40,65.2,Completed,Seeking Employment,les
+85,L2086,Female,27,Quthing,16,40,33.6,Completed,Entrepreneurship,les
+86,L2087,Female,22,Butha-Buthe,35,40,31.8,Completed,Seeking Employment,les
+87,L2088,Female,21,Mokhotlong,38,40,67.7804469273743,Not Completed,Seeking Employment,les
+88,L2089,Female,22,Quthing,27,40,63.0,Not Completed,Seeking Employment,les
+89,L2090,Male,19,Butha-Buthe,25,40,30.1,Not Completed,Self-Employed,les
+90,L2091,Male,33,Mokhotlong,36,40,86.9,Not Completed,Self-Employed,les
+91,L2092,Male,22,Mafeteng,21,40,93.5,Not Completed,Entrepreneurship,les
+92,L2093,Female,18,Butha-Buthe,33,40,59.9,Completed,Entrepreneurship,les
+93,L2094,Female,35,Quthing,40,40,67.7804469273743,Not Completed,Self-Employed,les
+94,L2095,Female,25,Leribe,27,40,83.1,Not Completed,Further Studies,les
+95,L2096,Male,23,Berea,34,40,34.4,Completed,Further Studies,les
+96,L2097,Female,34,Leribe,16,40,62.4,Completed,Entrepreneurship,les
+97,L2098,Male,23,Leribe,32,40,35.5,Not Completed,Self-Employed,les
+98,L2099,Female,25,Mokhotlong,20,40,93.7,Not Completed,Self-Employed,les
+99,L2100,Female,25,Mafeteng,21,40,39.0,Completed,Self-Employed,les
+100,L2101,Female,23,Mokhotlong,21,40,93.7,Not Completed,Entrepreneurship,les
+101,L2102,Female,22,Leribe,32,40,37.6,Completed,Seeking Employment,les
+102,L2103,Female,35,Mokhotlong,36,40,51.6,Completed,Further Studies,les
+103,L2104,Female,26,Berea,35,40,93.8,Completed,Entrepreneurship,les
+104,L2105,Male,26,Quthing,23,40,74.7,Not Completed,Further Studies,les
+105,L2106,Female,19,Thaba-Tseka,39,40,98.4,Completed,Entrepreneurship,les
+106,L2107,Female,26,Maseru,32,40,53.1,Completed,Self-Employed,les
+107,L2108,Female,34,Quthing,35,40,87.8,Not Completed,Entrepreneurship,les
+108,L2109,Female,35,Mafeteng,28,40,67.7804469273743,Not Completed,Seeking Employment,les
+109,L2110,Female,26,Quthing,30,40,74.8,Completed,Further Studies,les
+110,L2111,Female,35,Berea,23,40,47.0,Not Completed,Self-Employed,les
+111,L2112,Female,35,Leribe,34,40,44.0,Not Completed,Seeking Employment,les
+112,L2113,Male,31,Leribe,34,40,48.5,Not Completed,Self-Employed,les
+113,L2114,Female,25,Quthing,28,40,75.9,Not Completed,Self-Employed,les
+114,L2115,Female,22,Mohale's Hoek,23,40,34.7,Completed,Self-Employed,les
+115,L2116,Male,26,Berea,17,40,32.6,Not Completed,Self-Employed,les
+116,L2117,Female,22,Butha-Buthe,25,40,88.7,Completed,Self-Employed,les
+117,L2118,Male,19,Mokhotlong,22,40,37.9,Not Completed,Self-Employed,les
+118,L2119,Female,20,Quthing,26,40,71.9,Not Completed,Self-Employed,les
+119,L2120,Female,22,Leribe,15,40,67.7804469273743,Completed,Self-Employed,les
+120,L2121,Female,31,Mafeteng,37,40,92.6,Not Completed,Entrepreneurship,les
+121,L2122,Male,34,Maseru,16,40,56.3,Not Completed,Seeking Employment,les
+122,L2123,Male,21,Butha-Buthe,35,40,65.7,Completed,Entrepreneurship,les
+123,L2124,Female,29,Thaba-Tseka,32,40,76.1,Not Completed,Further Studies,les
+124,L2125,Female,18,Mokhotlong,30,40,42.4,Completed,Entrepreneurship,les
+125,L2126,Male,26,Leribe,17,40,84.1,Completed,Self-Employed,les
+126,L2127,Male,25,Thaba-Tseka,18,40,62.5,Not Completed,Further Studies,les
+127,L2128,Female,24,Maseru,22,40,63.8,Completed,Entrepreneurship,les
+128,L2129,Female,31,Butha-Buthe,32,40,75.2,Not Completed,Seeking Employment,les
+129,L2130,Female,29,Mohale's Hoek,35,40,81.2,Not Completed,Further Studies,les
+130,L2131,Female,26,Thaba-Tseka,31,40,82.1,Not Completed,Further Studies,les
+131,L2132,Female,21,Mafeteng,22,40,84.6,Not Completed,Further Studies,les
+132,L2133,Male,24,Maseru,26,40,33.5,Completed,Seeking Employment,les
+133,L2134,Male,29,Thaba-Tseka,25,40,71.8,Not Completed,Entrepreneurship,les
+134,L2135,Female,34,Qacha's Nek,17,40,48.1,Completed,Entrepreneurship,les
+135,L2136,Female,30,Qacha's Nek,32,40,98.8,Not Completed,Further Studies,les
+136,L2137,Female,18,Mokhotlong,27,40,78.8,Completed,Entrepreneurship,les
+137,L2138,Female,26,Mokhotlong,24,40,81.7,Completed,Self-Employed,les
+138,L2139,Female,26,Thaba-Tseka,15,40,96.3,Not Completed,Seeking Employment,les
+139,L2140,Male,30,Qacha's Nek,18,40,36.4,Not Completed,Seeking Employment,les
+140,L2141,Female,30,Mohale's Hoek,16,40,95.1,Not Completed,Seeking Employment,les
+141,L2142,Male,35,Thaba-Tseka,21,40,95.0,Completed,Entrepreneurship,les
+142,L2143,Female,18,Berea,23,40,67.7804469273743,Completed,Entrepreneurship,les
+143,L2144,Male,32,Mohale's Hoek,23,40,80.7,Not Completed,Seeking Employment,les
+144,L2145,Female,31,Thaba-Tseka,34,40,85.3,Not Completed,Further Studies,les
+145,L2146,Female,24,Maseru,27,40,80.7,Not Completed,Further Studies,les
+146,L2147,Female,24,Berea,33,40,97.9,Not Completed,Further Studies,les
+147,L2148,Male,35,Thaba-Tseka,27,40,58.2,Completed,Seeking Employment,les
+148,L2149,Female,34,Berea,23,40,94.2,Not Completed,Entrepreneurship,les
+149,L2150,Male,28,Maseru,18,40,46.6,Not Completed,Self-Employed,les
+150,L2151,Female,35,Thaba-Tseka,36,40,73.6,Completed,Self-Employed,les
+151,L2152,Male,18,Thaba-Tseka,22,40,92.1,Not Completed,Seeking Employment,les
+152,L2153,Male,28,Leribe,28,40,98.2,Not Completed,Seeking Employment,les
+153,L2154,Male,23,Mafeteng,36,40,67.7804469273743,Completed,Self-Employed,les
+154,L2155,Female,21,Berea,21,40,54.7,Completed,Seeking Employment,les
+155,L2156,Female,23,Mohale's Hoek,25,40,95.3,Not Completed,Seeking Employment,les
+156,L2157,Female,33,Qacha's Nek,28,40,39.3,Completed,Seeking Employment,les
+157,L2158,Male,34,Quthing,22,40,48.1,Not Completed,Entrepreneurship,les
+158,L2159,Female,30,Mokhotlong,24,40,30.3,Completed,Self-Employed,les
+159,L2160,Female,32,Qacha's Nek,37,40,76.2,Not Completed,Self-Employed,les
+160,L2161,Male,19,Qacha's Nek,20,40,30.2,Completed,Further Studies,les
+161,L2162,Male,29,Qacha's Nek,16,40,30.8,Not Completed,Further Studies,les
+162,L2163,Male,24,Thaba-Tseka,18,40,85.7,Not Completed,Seeking Employment,les
+163,L2164,Female,21,Thaba-Tseka,31,40,62.6,Completed,Entrepreneurship,les
+164,L2165,Male,30,Leribe,39,40,48.9,Completed,Self-Employed,les
+165,L2166,Male,23,Mafeteng,30,40,74.7,Completed,Self-Employed,les
+166,L2167,Female,22,Qacha's Nek,39,40,39.4,Completed,Self-Employed,les
+167,L2168,Male,26,Mokhotlong,35,40,67.7804469273743,Completed,Further Studies,les
+168,L2169,Male,26,Berea,16,40,99.6,Not Completed,Entrepreneurship,les
+169,L2170,Male,34,Maseru,20,40,57.5,Completed,Further Studies,les
+170,L2171,Male,30,Berea,37,40,90.4,Not Completed,Self-Employed,les
+171,L2172,Female,27,Butha-Buthe,19,40,60.6,Not Completed,Entrepreneurship,les
+172,L2173,Male,34,Butha-Buthe,22,40,69.3,Completed,Seeking Employment,les
+173,L2174,Female,24,Mafeteng,31,40,32.6,Not Completed,Seeking Employment,les
+174,L2175,Male,18,Butha-Buthe,21,40,42.3,Not Completed,Further Studies,les
+175,L2176,Male,29,Qacha's Nek,40,40,82.2,Not Completed,Entrepreneurship,les
+176,L2177,Female,26,Berea,29,40,58.2,Not Completed,Entrepreneurship,les
+177,L2178,Female,34,Maseru,27,40,46.8,Not Completed,Self-Employed,les
+178,L2179,Female,28,Quthing,31,40,42.3,Completed,Self-Employed,les
+179,L2180,Male,31,Thaba-Tseka,23,40,91.1,Completed,Self-Employed,les
+180,L2181,Male,34,Qacha's Nek,40,40,95.2,Not Completed,Self-Employed,les
+181,L2182,Female,28,Berea,31,40,71.8,Completed,Entrepreneurship,les
+182,L2183,Male,24,Mafeteng,29,40,67.7804469273743,Not Completed,Entrepreneurship,les
+183,L2184,Male,33,Butha-Buthe,34,40,98.2,Completed,Entrepreneurship,les
+184,L2185,Male,22,Mokhotlong,24,40,66.0,Not Completed,Further Studies,les
+185,L2186,Female,28,Mokhotlong,23,40,81.3,Completed,Entrepreneurship,les
+186,L2187,Female,27,Qacha's Nek,26,40,72.2,Not Completed,Entrepreneurship,les
+187,L2188,Female,29,Berea,35,40,68.2,Completed,Self-Employed,les
+188,L2189,Female,26,Butha-Buthe,29,40,95.7,Not Completed,Entrepreneurship,les
+189,L2190,Male,19,Thaba-Tseka,19,40,90.3,Not Completed,Further Studies,les

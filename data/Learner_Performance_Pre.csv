@@ -1,0 +1,122 @@
+learner_id,gender,age,region,classes_attended,total_classes,exam_score,completion_status,career_path
+L1000,Male,33,KwaZulu-Natal,26,40,83.0,Not Completed,Seeking Employment
+L1001,Female,30,Eastern Cape,23,40,45.0,Not Completed,Further Studies
+L1002,Male,32,Eastern Cape,32,40,88.0,Completed,Entrepreneurship
+L1003,Male,30,Gauteng,39,40,50.0,Completed,Entrepreneurship
+L1004,Male,26,Gauteng,20,40,46.0,Not Completed,Seeking Employment
+L1005,,32,Western Cape,27,40,52.0,Not Completed,Seeking Employment
+L1006,Male,30,Gauteng,33,40,94.0,Completed,Seeking Employment
+L1007,Male,18,KwaZulu-Natal,35,40,64.0,Completed,Further Studies
+L1008,Male,24,Eastern Cape,33,40,72.0,Completed,Seeking Employment
+L1009,Female,26,Gauteng,31,40,62.0,Completed,Entrepreneurship
+L1010,Male,18,Gauteng,38,40,,Completed,Entrepreneurship
+L1011,Male,29,Western Cape,34,40,57.0,Completed,Seeking Employment
+L1012,Male,25,Western Cape,21,40,65.0,Not Completed,Seeking Employment
+L1013,Male,28,KwaZulu-Natal,21,40,72.0,Not Completed,Entrepreneurship
+L1014,Female,34,Eastern Cape,38,40,90.0,Completed,Further Studies
+L1015,Male,25,gauteng,36,40,36.0,Not Completed,Seeking Employment
+L1016,Female,20,Gauteng,39,40,89.0,Completed,Seeking Employment
+L1017,Female,20,Eastern Cape,29,40,72.0,Not Completed,Entrepreneurship
+L1018,Female,18,Eastern Cape,25,40,59.0,Not Completed,Seeking Employment
+L1019,Male,22,Gauteng,34,40,56.0,Completed,Further Studies
+L1020,Female,27,Western Cape,30,40,80.0,Completed,Self-Employed
+L1021,Male,24,Gauteng,24,40,68.0,Not Completed,Seeking Employment
+L1022,Female,26,Eastern Cape,20,40,41.0,Not Completed,Entrepreneurship
+L1023,Female,24,Free State,27,40,70.0,Not Completed,Seeking Employment
+L1024,Female,26,Free State,40,40,82.0,Completed,Seeking Employment
+L1025,Female,25,KwaZulu-Natal,31,40,77.0,Completed,Seeking Employment
+L1026,Female,29,Gauteng,31,40,55.0,Completed,Further Studies
+L1027,Female,19,Gauteng,24,40,44.0,Not Completed,Further Studies
+L1028,Female,18,KwaZulu-Natal,26,40,60.0,Not Completed,Entrepreneurship
+L1029,Female,33,KwaZulu-Natal,23,40,100.0,Not Completed,Seeking Employment
+L1030,Male,99,KwaZulu-Natal,25,40,41.0,Not Completed,Seeking Employment
+L1031,Male,20,Eastern Cape,32,40,52.0,Completed,Further Studies
+L1032,Female,29,Gauteng,39,40,70.0,Completed,Seeking Employment
+L1033,Female,25,Eastern Cape,34,40,63.0,Completed,Further Studies
+L1034,Female,20,KwaZulu-Natal,22,40,61.0,Not Completed,Seeking Employment
+L1035,Male,18,Gauteng,55,40,95.0,Not Completed,Entrepreneurship
+L1036,Female,20,Eastern Cape,39,40,52.0,Completed,Seeking Employment
+L1037,Male,22,Eastern Cape,35,40,64.0,Completed,Seeking Employment
+L1038,Male,32,KwaZulu-Natal,32,40,68.0,Completed,Further Studies
+L1039,Male,31,Gauteng,37,40,52.0,Completed,Seeking Employment
+L1040,Male,20,KwaZulu-Natal,29,40,eighty,Not Completed,Seeking Employment
+L1041,Male,18,Gauteng,38,40,69.0,Completed,Further Studies
+L1042,Female,22,Free State,36,40,92.0,Completed,Entrepreneurship
+L1043,Female,31,Western Cape,38,40,71.0,Completed,Entrepreneurship
+L1044,Female,24,Western Cape,24,40,66.0,Not Completed,Further Studies
+L1045,Female,26,Western Cape,40,40,66.0,Completed,Further Studies
+L1046,Female,32,KwaZulu-Natal,28,40,61.0,Not Completed,Further Studies
+L1047,Male,32,Free State,31,40,82.0,Completed,Further Studies
+L1048,Female,27,Gauteng,40,40,57.0,Completed,Further Studies
+L1049,Female,30,Eastern Cape,20,40,44.0,Not Completed,Entrepreneurship
+L1050,Male,24,Gauteng,20,40,41.0,Not Completed,Entrepreneurship
+L1051,Female,34,Eastern Cape,34,40,66.0,Completed,Further Studies
+L1052,Male,21,Gauteng,21,40,80.0,Not Completed,Seeking Employment
+L1053,Female,22,Free State,35,40,68.0,Completed,Further Studies
+L1054,Male,24,Eastern Cape,27,40,60.0,Not Completed,Seeking Employment
+L1055,Female,30,KwaZulu-Natal,32,40,71.0,Completed,Further Studies
+L1056,Female,32,Gauteng,40,40,67.0,Completed,Further Studies
+L1057,Male,28,Gauteng,20,40,77.0,Not Completed,Entrepreneurship
+L1058,Male,21,Eastern Cape,35,40,84.0,Completed,Seeking Employment
+L1059,Male,30,KwaZulu-Natal,26,40,50.0,Not Completed,Seeking Employment
+L1060,Male,24,KwaZulu-Natal,24,40,29.0,Not Completed,Entrepreneurship
+L1061,Male,19,Free State,22,40,59.0,Not Completed,Entrepreneurship
+L1062,Male,27,KwaZulu-Natal,31,40,49.0,Not Completed,Entrepreneurship
+L1063,Male,30,KwaZulu-Natal,35,40,77.0,Completed,Entrepreneurship
+L1064,Male,23,KwaZulu-Natal,38,40,54.0,Completed,Seeking Employment
+L1065,Female,29,Western Cape,24,40,36.0,Not Completed,Seeking Employment
+L1066,Female,29,Free State,33,40,56.0,Completed,Further Studies
+L1067,Male,28,Gauteng,24,40,42.0,Not Completed,Further Studies
+L1068,Female,24,Eastern Cape,34,40,88.0,Completed,Entrepreneurship
+L1069,Female,18,Gauteng,36,40,72.0,Completed,Entrepreneurship
+L1070,Female,18,Free State,33,40,74.0,Completed,Entrepreneurship
+L1071,Female,30,Eastern Cape,39,40,73.0,Completed,Further Studies
+L1072,Male,26,Free State,24,40,77.0,Not Completed,Further Studies
+L1073,Female,20,KwaZulu-Natal,31,40,82.0,Completed,Further Studies
+L1074,Male,24,Eastern Cape,35,40,56.0,Completed,Further Studies
+L1075,Female,23,KwaZulu-Natal,35,40,43.0,Not Completed,Further Studies
+L1076,Female,25,Gauteng,40,40,52.0,Completed,Further Studies
+L1077,Female,26,Gauteng,26,40,64.0,Not Completed,Further Studies
+L1078,Male,22,Eastern Cape,23,40,26.0,Not Completed,Entrepreneurship
+L1079,Female,18,Eastern Cape,20,40,82.0,Not Completed,Entrepreneurship
+L1080,Male,27,Free State,24,40,36.0,Not Completed,Entrepreneurship
+L1081,Female,29,Free State,29,40,73.0,Not Completed,Entrepreneurship
+L1082,Male,32,KwaZulu-Natal,24,40,62.0,Not Completed,Further Studies
+L1083,Female,26,Eastern Cape,23,40,69.0,Not Completed,Seeking Employment
+L1084,Male,34,Gauteng,21,40,57.0,Not Completed,Further Studies
+L1085,Male,34,Free State,39,40,68.0,Completed,Seeking Employment
+L1086,Female,29,Free State,29,40,57.0,Not Completed,Entrepreneurship
+L1087,Male,24,Gauteng,38,40,56.0,Completed,Further Studies
+L1088,Female,19,Free State,20,40,51.0,Not Completed,Entrepreneurship
+L1089,Female,20,KwaZulu-Natal,24,40,87.0,Not Completed,Further Studies
+L1090,Female,34,Eastern Cape,32,40,70.0,Completed,Entrepreneurship
+L1091,Female,22,Gauteng,23,40,68.0,Not Completed,Seeking Employment
+L1092,Female,34,Eastern Cape,35,40,51.0,Completed,Seeking Employment
+L1093,Female,34,Free State,35,40,61.0,Completed,Seeking Employment
+L1094,Female,34,Free State,21,40,50.0,Not Completed,Further Studies
+L1095,Female,19,Gauteng,36,40,57.0,Completed,Seeking Employment
+L1096,Female,19,KwaZulu-Natal,39,40,46.0,Not Completed,Further Studies
+L1097,Female,22,Western Cape,31,40,88.0,Completed,Seeking Employment
+L1098,Female,18,Gauteng,37,40,53.0,Completed,Seeking Employment
+L1099,Male,18,Western Cape,22,40,51.0,Not Completed,Further Studies
+L1100,Male,19,Western Cape,20,40,45.0,Not Completed,Further Studies
+L1101,Female,29,KwaZulu-Natal,20,40,53.0,Not Completed,Seeking Employment
+L1102,Female,23,Western Cape,38,40,57.0,Completed,Further Studies
+L1103,Female,21,Western Cape,30,40,64.0,Completed,Seeking Employment
+L1104,Female,28,KwaZulu-Natal,24,40,55.0,Not Completed,Further Studies
+L1105,Female,34,Western Cape,31,40,40.0,Not Completed,Entrepreneurship
+L1106,Female,23,Western Cape,22,40,42.0,Not Completed,Entrepreneurship
+L1107,Female,22,Western Cape,20,40,75.0,Not Completed,Entrepreneurship
+L1108,Female,19,Gauteng,20,40,63.0,Not Completed,Entrepreneurship
+L1109,Male,23,Gauteng,27,40,74.0,Not Completed,Entrepreneurship
+L1110,Female,28,Gauteng,29,40,76.0,Not Completed,Seeking Employment
+L1111,Male,33,KwaZulu-Natal,30,40,67.0,Completed,Entrepreneurship
+L1112,Female,33,Free State,31,40,46.0,Not Completed,Entrepreneurship
+L1113,Female,18,Western Cape,32,40,67.0,Completed,Entrepreneurship
+L1114,Male,26,Western Cape,31,40,85.0,Completed,Entrepreneurship
+L1115,Female,23,KwaZulu-Natal,33,40,58.0,Completed,Further Studies
+L1116,Male,33,Western Cape,21,40,70.0,Not Completed,Seeking Employment
+L1117,Female,20,Gauteng,38,40,64.0,Completed,Entrepreneurship
+L1118,Female,21,Free State,37,40,85.0,Completed,Entrepreneurship
+L1119,Male,20,Eastern Cape,22,40,54.0,Not Completed,Entrepreneurship
+L1025,Female,25,KwaZulu-Natal,31,40,77.0,Completed,Seeking Employment
