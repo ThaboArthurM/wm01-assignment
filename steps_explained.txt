@@ -1,0 +1,133 @@
+cell 1:
+imports the pandas library and loads the learner_perfomance_pre.cv into a variable df_za.
+the command "df_za.info()" displays the information of the dataframe.
+
+cell 2:
+loads the dummy data into a variable df_les,
+the command "df_les.info()" displays the info about the dataframe
+
+cell 3:
+calculates the sum of null values in every column of the df_za dataframe
+
+cell 4:
+calculates the sum of null values in every column of the df_les dataframe
+
+cell 5:
+adds a country column to the df_za dataframe
+
+cell 6:
+adds a country column to the df_les dataframe
+
+cell 7:
+first attempt to merge the two dataframes under the presumption that data types match, unfortunately for me, python throws an error
+
+cell 8:
+checks the datatype of the df_za "age" column
+
+cell 9:
+attempt to convert the df_za "exam_score" column to "float", unfortunately throws an exception due to a single string type in the data.
+
+cell 10:
+locates the row in the dataframe where the value is "eighty" and displays that row
+
+cell 11:
+uses the `loc` method of df_za dataframe to locate the row and update the value to 80.0, which is float type and not string
+
+cell 12:
+converts the columns "age", "classes_attended", and "total_classes" to integer datatype,
+converts the "exam_score" column to float datatype. Now the previous exception is no longer encountered.
+"df_za.info()" displays the dataframe information and we can see that the columns have changed the datatype 
+
+cell 13:
+"df_les.info()" displays the dataframe information 
+
+cell 14:
+converts the "age", "classes_attended", and "total_classes" columns to int datatype, as seen previously they were of float type.
+
+cell 15:
+locates the row with the missing exam_score
+
+cell 16:
+updates the exam_score for the row to zero
+manually calculates the average of the exam_score dataframe,
+sets the exam_score of the located row to the average exam_score, rounded off
+finally, displays the row to see if it was updated 
+
+cell 17:
+locates the row with missing value in the gender in the df_za dataframe, and shows the row
+
+cell 18:
+uses an aggregate operation, "groupby" to see the count of genders in the df_za dataframe. 
+
+cell 19:
+sets the value "Male" to the row with a missing gender value, and then checks if there are any null values in the columns. as you we can see none null values are there.
+
+cell 20:
+checks for duplicate rows in the df_za dataframe, and displays the duplicate rows.
+uses the attribute "keep=False" so that we can see all duplicated rows, from first appearence to last
+
+cell 21:
+removes the duplicated value and keeps the first occurance.
+
+cell 22:
+displays the dataframe and we can see that the last row was indeed removed from the dataframe.
+
+cell 23:
+writes the cleaned learner_perfomance_pre data to a new csv file.
+
+cell 24:
+calculates the sum of null values in every column of the df_les dataframe
+
+cell 25:
+locates and displays the columns with missing exam_score values
+
+cell 26:
+fills in the the columns with misisng values with the average using the "fillna" method.
+checks if there are any null values in the exam_score column
+
+cell 27:
+displays the exam_score values of the first three rows that had missing exam_score values that were filled using the average.
+
+cell 28:
+aggregate operation that shows the gender count of the df_les dataframe.
+
+cell 29:
+fills in the missing values in the gender column with "Female"
+
+cell 30:
+sets the average age to columns to where the age value is missing.
+sets the average class attendance to the columns where the class attendance is missing.
+
+cell 31:
+displays the ds_les column information after data transformation
+
+cell 32:
+writes the cleaned lesotho data to a new csv file.
+
+cell 33:
+displays the column data types of each dataframe, to see if they are the same 
+
+cell 34:
+merges the two dataframes into a new dataframe called "df"
+
+cell 35:
+transforms the gender column into a numerical categoriocal data type, 1 representing males, 0 representing females
+displays the df dataframe
+
+cell 36:
+transforms the completion status column into a categorical data type, 1 represents completed, o represents not completed
+
+cell 37:
+computes the total count of each gender in the df dataframe
+
+cell 38:
+calculates the completion status based on gender, this is done using an aggregate operation using the groupby method.
+
+cell 39:
+creates a new column in the dataframe called attendance_rate that computes the attendance_rate percentage
+
+cell 40:
+shows the total number of learners who completed a degree by gender.
+
+cell 41:
+writes the cleaned df dataframe to a new csv file.
